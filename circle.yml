@@ -6,6 +6,3 @@ general:
   artifacts:
     - "target/*.jar"
     - "pom.xml"
-
-cache_directories:
-    - "~/maven_deps"
