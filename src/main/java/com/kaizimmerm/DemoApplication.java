@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
     public static void main(String[] args) {
+        //System.out.println("Sonar Issue")
+try {
         SpringApplication.run(DemoApplication.class, args);
+} catch (Exception e) {}
     }
 }
