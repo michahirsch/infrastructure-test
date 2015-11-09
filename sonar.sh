@@ -1,4 +1,4 @@
-mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent verify sonar:sonar \
+mvn sonar:sonar \
   -Dmaven.test.failure.ignore=true \
   -Dclirr=true \
   -Dsonar.analysis.mode=issues \
