@@ -21,7 +21,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
-    <sonar.host.url>http://134.168.39.28:9000</sonar.host.url>
+    <sonar.host.url>https://sonar.eu-gb.mybluemix.net</sonar.host.url>
 	</properties>
 
 	<dependencies>
